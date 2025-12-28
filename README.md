@@ -13,7 +13,7 @@ Combine strong technical foundation with exceptional communication skills, enabl
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
-[<b>Multi-Layered Identity & Access Management System</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
+[<b>Multi-Layered Identity & Access Management System</b>](https://github.com/sabelo-tech/Multi-Layered-Identity-Access-Management-System/blob/main/README.md)<br>
 Comprehensive IAM solution implementing Azure AD security controls, conditional access policies, and RBAC governance.
 
 [<b>Hub-Spoke Network Security Architecture</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
