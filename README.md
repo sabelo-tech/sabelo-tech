@@ -23,15 +23,6 @@ Enterprise-grade network security infrastructure with defense-in-depth strategy 
 End-to-end security monitoring and data protection infrastructure with automated incident response.
   
 
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-3399FF?&style=for-the-badge&logo=ISC2&logoColor=white"/>
