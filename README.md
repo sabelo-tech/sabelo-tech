@@ -1,22 +1,28 @@
-<h1>Hi, I'm Sabelo <br/>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sabelo <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Professional Summary</h2>
+Azure Security professional with demonstrated expertise in cloud security architecture, identity management, and security operations. Hold multiple industry certifications including Microsoft Azure Security Engineer Associate (AZ-500), Azure Fundamentals (AZ-900), ISC2 Certified in Cybersecurity (CC), and Oracle Cloud Infrastructure Foundations Associate.
+Bring a unique analytical perspective from interior design background, where success required meticulous attention to detail, understanding complex spatial relationships (similar to network topology design), adherence to strict safety regulations (comparable to security compliance), and balancing multiple stakeholder requirements—skills that translate directly to security architecture and risk assessment.
+Completed hands-on Azure security implementations including:
+
+Multi-layered identity governance with Azure AD Conditional Access and custom RBAC roles
+Hub-spoke network security architecture with NSGs, ASGs, and zero-trust principles
+Security Operations Center with Microsoft Defender for Cloud, Log Analytics, and automated incident response
+
+Combine strong technical foundation with exceptional communication skills, enabling effective collaboration with both technical teams and business stakeholders. Committed to continuous learning and staying current with evolving threat landscapes and security best practices.
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
-- <b>Multi-Layered Identity & Access Management System</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+[<b>Multi-Layered Identity & Access Management System</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
+Comprehensive IAM solution implementing Azure AD security controls, conditional access policies, and RBAC governance.
+
+[<b>Hub-Spoke Network Security Architecture</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
+Enterprise-grade network security infrastructure with defense-in-depth strategy and zero-trust principles.
+
+[<b> Security Operations Center (SOC) & Data Protection</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
+End-to-end security monitoring and data protection infrastructure with automated incident response.
+  
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -26,14 +32,31 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-3399FF?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Introduction to Computers and Operating Systems and Security%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/I36X2FR14FC6"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Cybersecurity Threat Vectors and Mitigation%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/- Microsoft Introduction to Networking and Cloud Computing%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+
+
+</div>
+
+## Software
+<div>
+<img src="https://img.shields.io/badge/-AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+   <img src="https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Revit-3197D3?style=for-the-badge&logo=autodesk&logoColor=white" />
+</div>
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
