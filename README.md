@@ -16,10 +16,10 @@ Combine strong technical foundation with exceptional communication skills, enabl
 [<b>Multi-Layered Identity & Access Management System</b>](https://github.com/sabelo-tech/Multi-Layered-Identity-Access-Management-System/blob/main/README.md)<br>
 Comprehensive IAM solution implementing Azure AD security controls, conditional access policies, and RBAC governance.
 
-[<b>Hub-Spoke Network Security Architecture</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
+[<b>Hub-Spoke Network Security Architecture</b>](https://github.com/sabelo-tech/Hub-Spoke-Network-Security-Architecture)<br>
 Enterprise-grade network security infrastructure with defense-in-depth strategy and zero-trust principles.
 
-[<b> Security Operations Center (SOC) & Data Protection</b>](https://github.com/joshmadakor1/Algorithms-Practice)<br>
+[<b> Security Operations Center (SOC) & Data Protection</b>](https://github.com/sabelo-tech/Security-Operations-Center-SOC-Data-Protection)<br>
 End-to-end security monitoring and data protection infrastructure with automated incident response.
   
 
