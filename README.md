@@ -24,7 +24,7 @@ End-to-end security monitoring and data protection infrastructure with automated
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[<b>Home-Lab-Running-Active-Directory</b>](https://github.com/sabelo-tech/Multi-Layered-Identity-Access-Management-System/blob/main/README.md)<br>
+[<b>Home-Lab-Running-Active-Directory</b>](https://github.com/sabelo-tech/Home-Lab-Running-Active-Directory)<br>
 Create a controlled environment where you can learn and practice Active Directory (AD) management and network administration skills..
   
 
