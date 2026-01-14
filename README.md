@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sabelo <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sabelo <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Professional Summary</h2>
 Azure Security professional with demonstrated expertise in cloud security architecture, identity management, and security operations. Hold multiple industry certifications including Microsoft Azure Security Engineer Associate (AZ-500), Azure Fundamentals (AZ-900), ISC2 Certified in Cybersecurity (CC), and Oracle Cloud Infrastructure Foundations Associate.
