@@ -28,22 +28,28 @@ Create a controlled environment where you can learn and practice Active Director
 End-to-end security monitoring and data protection infrastructure with automated incident response.
   
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-3399FF?&style=for-the-badge&logo=ISC2&logoColor=white"/>
-<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Introduction to Computers and Operating Systems and Security%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/I36X2FR14FC6"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Cybersecurity Threat Vectors and Mitigation%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/- Microsoft Introduction to Networking and Cloud Computing%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+## Cybersecurity Certifications
 
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-blue?style=for-the-badge&logo=ISC2)  
+![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-Intro_to_Linux_(LFS101)-yellow?style=for-the-badge&logo=linux)  
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA)  
+
+## Cloud Certifications
+
+![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud_Foundation_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 </div>
 
-## Software
-<div>
-<img src="https://img.shields.io/badge/-AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-   <img src="https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Revit-3197D3?style=for-the-badge&logo=autodesk&logoColor=white" />
-</div>
+## Software & Tools
+
+| **Security Operations** | **Endpoint & Detection** | **Cloud Security** | **Virtualization & Labs** |
+|--------------------------|--------------------------|--------------------|---------------------------|
+| ![Splunk](https://img.shields.io/badge/SIEM-Splunk-FF6C37?style=for-the-badge&logo=splunk&logoColor=white) | ![Sysmon](https://img.shields.io/badge/Endpoint-Sysmon-2E2E2E?style=for-the-badge&logo=windows&logoColor=white) | ![Azure AD](https://img.shields.io/badge/Cloud-Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/Virtualization-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) |
+| ![Microsoft Sentinel](https://img.shields.io/badge/SIEM-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Windows Event Logs](https://img.shields.io/badge/Logs-Windows_Event_Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Oracle Cloud](https://img.shields.io/badge/Cloud-Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Attack_Platform-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| ![Suricata](https://img.shields.io/badge/IDS-Suricata-FF0000?style=for-the-badge&logo=suricata&logoColor=white) | ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | ![Azure CLI](https://img.shields.io/badge/Automation-Azure_CLI-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| ![Wireshark](https://img.shields.io/badge/Network-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![ARM Templates](https://img.shields.io/badge/IaC-ARM_Templates-0089D6?style=for-the-badge&logo=azuredevops&logoColor=white) |   |
+
 
 
 
@@ -62,7 +68,7 @@ End-to-end security monitoring and data protection infrastructure with automated
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
