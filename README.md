@@ -24,7 +24,7 @@ Enterprise-grade network security infrastructure with defense-in-depth strategy 
 [<b>Home-Lab-Running-Active-Directory</b>](https://github.com/sabelo-tech/Home-Lab-Running-Active-Directory)<br>
 Create a controlled environment where you can learn and practice Active Directory (AD) management and network administration skills..
 
-[<b> Security Operations Center (SOC) & Data Protection</b>](https://github.com/sabelo-tech/Security-Operations-Center-SOC-Data-Protection)<br>
+[<b> Home SOC Lab — Threat Detection & Incident Response</b>](https://github.com/sabelo-tech/Security-Operations-Center-SOC-Data-Protection)<br>
 End-to-end security monitoring and data protection infrastructure with automated incident response.
   
 
