@@ -1,7 +1,8 @@
 <h1>Hi, I'm Sabelo <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Professional Summary</h2>
-Azure Security professional with demonstrated expertise in cloud security architecture, identity management, and security operations. Hold multiple industry certifications including Microsoft Azure Security Engineer Associate (AZ-500), Azure Fundamentals (AZ-900), ISC2 Certified in Cybersecurity (CC), and Oracle Cloud Infrastructure Foundations Associate.
+Certified Cybersecurity Professional transitioning from Interior Design to Cybersecurity, bringing unique problem-solving abilities and analytical thinking to digital protection. Passionate about securing cloud infrastructure and protecting organizational assets through proactive threat detection and response.
+
 Bring a unique analytical perspective from interior design background, where success required meticulous attention to detail, understanding complex spatial relationships (similar to network topology design), adherence to strict safety regulations (comparable to security compliance), and balancing multiple stakeholder requirements—skills that translate directly to security architecture and risk assessment.
 Completed hands-on Azure security implementations including:
 
