@@ -27,6 +27,9 @@ Create a controlled environment where you can learn and practice Active Director
 
 [<b> Home SOC Lab — Threat Detection & Incident Response</b>](https://github.com/sabelo-tech/Security-Operations-Center-SOC-Data-Protection)<br>
 End-to-end security monitoring and data protection infrastructure with automated incident response.
+
+[<b> Wireshark-SOC-analyst-investigation</b>](https://github.com/sabelo-tech/Wireshark-SOC-analyst-investigation-project)<br>
+A packet-level investigation portfolio built to demonstrate SOC Tier 1 analyst skills across three distinct attack categories.
   
 
 ## Cybersecurity Certifications
